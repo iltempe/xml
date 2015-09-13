@@ -1,0 +1,239 @@
+<markers>
+<marker lat="44.29848" lon="9.67751" code="NAS2" name="Sesta Godano" elev="265" RAINC="3" BVTGM="3" REHUM="3" SRPWM="0" WSPDM="0" CRLVM="0" TEMPM="3" SNOWM="0" PRSTM="0" WDIRP="0"/>
+<marker lat="44.43671" lon="8.82023" code="VARP" name="Genova - Granara" elev="20" RAINC="0" BVTGM="3" REHUM="0" SRPWM="0" WSPDM="0" CRLVM="3" TEMPM="0" SNOWM="0" PRSTM="0" WDIRP="0"/>
+<marker lat="44.43845" lon="9.10735" code="BARG" name="Bargagli" elev="702" RAINC="3" BVTGM="3" REHUM="3" SRPWM="0" WSPDM="3" CRLVM="0" TEMPM="3" SNOWM="0" PRSTM="0" WDIRP="3"/>
+<marker lat="44.19325" lon="8.37883" code="MANE" name="Manie" elev="340" RAINC="3" BVTGM="3" REHUM="3" SRPWM="0" WSPDM="0" CRLVM="0" TEMPM="3" SNOWM="0" PRSTM="0" WDIRP="0"/>
+<marker lat="44.14819" lon="8.16447" code="CARP" name="Carpe" elev="610" RAINC="3" BVTGM="3" REHUM="3" SRPWM="0" WSPDM="0" CRLVM="0" TEMPM="3" SNOWM="0" PRSTM="0" WDIRP="0"/>
+<marker lat="44.18528" lon="9.92611" code="MUIS" name="Murella Isola" elev="45" RAINC="0" BVTGM="0" REHUM="0" SRPWM="0" WSPDM="0" CRLVM="0" TEMPM="0" SNOWM="0" PRSTM="0" WDIRP="0"/>
+<marker lat="44.48233" lon="8.48572" code="SASS" name="Sassello" elev="385" RAINC="3" BVTGM="0" REHUM="0" SRPWM="0" WSPDM="0" CRLVM="0" TEMPM="3" SNOWM="0" PRSTM="0" WDIRP="0"/>
+<marker lat="44.45381" lon="9.8222" code="BRAT" name="Passo del Brattello" elev="955" RAINC="3" BVTGM="0" REHUM="0" SRPWM="0" WSPDM="3" CRLVM="0" TEMPM="3" SNOWM="0" PRSTM="0" WDIRP="3"/>
+<marker lat="44.3929" lon="9.88585" code="PICL" name="Piccatello" elev="248" RAINC="0" BVTGM="0" REHUM="0" SRPWM="0" WSPDM="0" CRLVM="3" TEMPM="0" SNOWM="0" PRSTM="0" WDIRP="0"/>
+<marker lat="44.40667" lon="8.52604" code="ALPC" name="Alpicella" elev="435" RAINC="3" BVTGM="3" REHUM="0" SRPWM="0" WSPDM="0" CRLVM="0" TEMPM="3" SNOWM="0" PRSTM="0" WDIRP="0"/>
+<marker lat="44.35453" lon="9.20928" code="RAPL" name="Rapallo" elev="40" RAINC="3" BVTGM="3" REHUM="3" SRPWM="0" WSPDM="0" CRLVM="0" TEMPM="3" SNOWM="0" PRSTM="0" WDIRP="0"/>
+<marker lat="44.08325" lon="7.87331" code="CNAV" name="Colle di Nava" elev="927" RAINC="3" BVTGM="3" REHUM="0" SRPWM="0" WSPDM="0" CRLVM="0" TEMPM="3" SNOWM="0" PRSTM="0" WDIRP="0"/>
+<marker lat="44.04952" lon="7.91473" code="PTEC" name="Pieve di Teco" elev="263" RAINC="3" BVTGM="3" REHUM="3" SRPWM="0" WSPDM="0" CRLVM="0" TEMPM="3" SNOWM="0" PRSTM="0" WDIRP="0"/>
+<marker lat="44.3062" lon="8.48305" code="INSV" name="Savona - Istituto Nautico" elev="24" RAINC="3" BVTGM="3" REHUM="3" SRPWM="3" WSPDM="3" CRLVM="0" TEMPM="3" SNOWM="0" PRSTM="3" WDIRP="3"/>
+<marker lat="44.46112" lon="9.38773" code="GIAC" name="Giacopiane - Lago" elev="1030" RAINC="3" BVTGM="3" REHUM="3" SRPWM="3" WSPDM="3" CRLVM="0" TEMPM="3" SNOWM="0" PRSTM="3" WDIRP="3"/>
+<marker lat="44.26434" lon="9.73698" code="SZIG" name="Sero' di Zignago" elev="580" RAINC="3" BVTGM="3" REHUM="0" SRPWM="0" WSPDM="0" CRLVM="0" TEMPM="3" SNOWM="0" PRSTM="0" WDIRP="0"/>
+<marker lat="44.31091" lon="9.44102" code="MDOM" name="Monte Domenico" elev="175" RAINC="3" BVTGM="3" REHUM="0" SRPWM="0" WSPDM="0" CRLVM="0" TEMPM="0" SNOWM="0" PRSTM="0" WDIRP="0"/>
+<marker lat="44.42107" lon="9.32194" code="CICR" name="Cichero" elev="615" RAINC="3" BVTGM="3" REHUM="3" SRPWM="0" WSPDM="3" CRLVM="0" TEMPM="3" SNOWM="0" PRSTM="0" WDIRP="3"/>
+<marker lat="44.40681" lon="9.53384" code="SCUR" name="Scurtabo'" elev="685" RAINC="3" BVTGM="3" REHUM="0" SRPWM="0" WSPDM="0" CRLVM="0" TEMPM="3" SNOWM="3" PRSTM="0" WDIRP="0"/>
+<marker lat="44.22903" lon="10.0683" code="FIVI" name="Fivizzano" elev="203" RAINC="0" BVTGM="0" REHUM="0" SRPWM="0" WSPDM="0" CRLVM="0" TEMPM="0" SNOWM="0" PRSTM="0" WDIRP="0"/>
+<marker lat="44.57129" lon="8.94892" code="BUSA" name="Busalla" elev="358" RAINC="3" BVTGM="0" REHUM="0" SRPWM="0" WSPDM="0" CRLVM="0" TEMPM="3" SNOWM="0" PRSTM="0" WDIRP="0"/>
+<marker lat="44.13202" lon="8.11888" code="CSRB" name="Castelvecchio di R. B." elev="432" RAINC="3" BVTGM="3" REHUM="0" SRPWM="0" WSPDM="0" CRLVM="0" TEMPM="3" SNOWM="0" PRSTM="0" WDIRP="0"/>
+<marker lat="44.36652" lon="9.95572" code="RSIG" name="Rocca Sigillina" elev="480" RAINC="0" BVTGM="0" REHUM="0" SRPWM="0" WSPDM="0" CRLVM="0" TEMPM="0" SNOWM="0" PRSTM="0" WDIRP="0"/>
+<marker lat="43.9396" lon="7.60808" code="GOUT" name="Sella di Gouta" elev="1212" RAINC="3" BVTGM="3" REHUM="3" SRPWM="0" WSPDM="0" CRLVM="0" TEMPM="3" SNOWM="0" PRSTM="0" WDIRP="0"/>
+<marker lat="44.04882" lon="8.21077" code="MOBR" name="Albenga - Molino Branca" elev="6" RAINC="3" BVTGM="3" REHUM="0" SRPWM="0" WSPDM="0" CRLVM="3" TEMPM="3" SNOWM="0" PRSTM="3" WDIRP="0"/>
+<marker lat="44.4035" lon="8.64766" code="LERC" name="Lerca" elev="110" RAINC="3" BVTGM="3" REHUM="0" SRPWM="0" WSPDM="0" CRLVM="0" TEMPM="3" SNOWM="0" PRSTM="0" WDIRP="0"/>
+<marker lat="43.84803" lon="7.62177" code="BNUO" name="Borgonuovo" elev="115" RAINC="3" BVTGM="3" REHUM="3" SRPWM="3" WSPDM="3" CRLVM="0" TEMPM="3" SNOWM="0" PRSTM="0" WDIRP="3"/>
+<marker lat="44.4883" lon="9.3408" code="CABN" name="Cabanne" elev="809" RAINC="3" BVTGM="0" REHUM="0" SRPWM="0" WSPDM="0" CRLVM="3" TEMPM="3" SNOWM="0" PRSTM="0" WDIRP="0"/>
+<marker lat="43.96126" lon="7.68502" code="BUGG" name="Buggio" elev="430" RAINC="0" BVTGM="0" REHUM="0" SRPWM="0" WSPDM="0" CRLVM="0" TEMPM="0" SNOWM="0" PRSTM="0" WDIRP="0"/>
+<marker lat="43.8732" lon="7.54478" code="AIRL" name="Airole" elev="110" RAINC="3" BVTGM="3" REHUM="0" SRPWM="0" WSPDM="0" CRLVM="3" TEMPM="3" SNOWM="0" PRSTM="0" WDIRP="0"/>
+<marker lat="43.87957" lon="8.01652" code="IMPE" name="Imperia - Oss. Meteosismico" elev="71" RAINC="3" BVTGM="3" REHUM="0" SRPWM="0" WSPDM="3" CRLVM="0" TEMPM="3" SNOWM="0" PRSTM="0" WDIRP="3"/>
+<marker lat="44.40035" lon="8.94591" code="GECF" name="Genova - Centro Funzionale" elev="30" RAINC="3" BVTGM="3" REHUM="3" SRPWM="3" WSPDM="0" CRLVM="0" TEMPM="3" SNOWM="0" PRSTM="3" WDIRP="0"/>
+<marker lat="44.4029" lon="9.09318" code="FFRE" name="Fontana Fresca" elev="791" RAINC="3" BVTGM="3" REHUM="0" SRPWM="0" WSPDM="3" CRLVM="0" TEMPM="3" SNOWM="0" PRSTM="0" WDIRP="3"/>
+<marker lat="44.44247" lon="8.84485" code="MGAZ" name="Santuario Monte Gazzo" elev="310" RAINC="3" BVTGM="3" REHUM="0" SRPWM="0" WSPDM="0" CRLVM="0" TEMPM="3" SNOWM="0" PRSTM="0" WDIRP="0"/>
+<marker lat="43.92167" lon="8.177" code="BOCM" name="BOA Capo Mele" elev="0" RAINC="0" BVTGM="0" REHUM="3" SRPWM="0" WSPDM="3" CRLVM="0" TEMPM="3" SNOWM="0" PRSTM="3" WDIRP="3"/>
+<marker lat="44.41681" lon="9.00911" code="PREM" name="Premanico" elev="234" RAINC="3" BVTGM="3" REHUM="0" SRPWM="0" WSPDM="0" CRLVM="0" TEMPM="3" SNOWM="0" PRSTM="0" WDIRP="0"/>
+<marker lat="44.05021" lon="10.01409" code="MARI" name="Marinella di Sarzana" elev="2" RAINC="3" BVTGM="3" REHUM="0" SRPWM="0" WSPDM="0" CRLVM="0" TEMPM="3" SNOWM="0" PRSTM="0" WDIRP="0"/>
+<marker lat="44.11227" lon="9.96546" code="SARZ" name="Sarzana" elev="26" RAINC="0" BVTGM="0" REHUM="0" SRPWM="0" WSPDM="0" CRLVM="0" TEMPM="0" SNOWM="0" PRSTM="0" WDIRP="0"/>
+<marker lat="44.44076" lon="9.04717" code="LPRS" name="La Presa" elev="150" RAINC="3" BVTGM="3" REHUM="0" SRPWM="0" WSPDM="0" CRLVM="3" TEMPM="0" SNOWM="0" PRSTM="0" WDIRP="0"/>
+<marker lat="44.35048" lon="9.48082" code="STAL" name="Statale" elev="593" RAINC="3" BVTGM="3" REHUM="0" SRPWM="0" WSPDM="0" CRLVM="0" TEMPM="3" SNOWM="0" PRSTM="0" WDIRP="0"/>
+<marker lat="44.06521" lon="7.73733" code="MOTR" name="Monesi" elev="1450" RAINC="0" BVTGM="0" REHUM="0" SRPWM="0" WSPDM="0" CRLVM="0" TEMPM="0" SNOWM="0" PRSTM="0" WDIRP="0"/>
+<marker lat="44.47507" lon="9.00714" code="CRET" name="Creto" elev="630" RAINC="3" BVTGM="3" REHUM="0" SRPWM="0" WSPDM="0" CRLVM="0" TEMPM="3" SNOWM="0" PRSTM="0" WDIRP="0"/>
+<marker lat="44.2908" lon="9.95065" code="VFLI" name="Villafranca Lunigiana" elev="133" RAINC="3" BVTGM="0" REHUM="0" SRPWM="0" WSPDM="0" CRLVM="0" TEMPM="3" SNOWM="0" PRSTM="0" WDIRP="0"/>
+<marker lat="43.83551" lon="7.81883" code="ARME" name="Valle Armea - Ponte" elev="41" RAINC="0" BVTGM="3" REHUM="0" SRPWM="0" WSPDM="0" CRLVM="3" TEMPM="0" SNOWM="0" PRSTM="0" WDIRP="0"/>
+<marker lat="44.10379" lon="10.00705" code="CSMG" name="Castelnuovo Magra" elev="96" RAINC="3" BVTGM="3" REHUM="3" SRPWM="3" WSPDM="0" CRLVM="0" TEMPM="3" SNOWM="0" PRSTM="0" WDIRP="0"/>
+<marker lat="44.17143" lon="9.60677" code="LEVN" name="Levanto" elev="6" RAINC="3" BVTGM="3" REHUM="3" SRPWM="0" WSPDM="3" CRLVM="0" TEMPM="3" SNOWM="0" PRSTM="0" WDIRP="3"/>
+<marker lat="44.43227" lon="8.8246" code="PEGL" name="Genova - Pegli" elev="69" RAINC="3" BVTGM="3" REHUM="0" SRPWM="0" WSPDM="0" CRLVM="0" TEMPM="3" SNOWM="0" PRSTM="0" WDIRP="0"/>
+<marker lat="44.47181" lon="9.9284" code="PCIS" name="Passo Della Cisa" elev="1035" RAINC="0" BVTGM="0" REHUM="0" SRPWM="0" WSPDM="0" CRLVM="0" TEMPM="0" SNOWM="0" PRSTM="0" WDIRP="0"/>
+<marker lat="44.28425" lon="8.37136" code="MNTA" name="Montagna" elev="253" RAINC="3" BVTGM="3" REHUM="3" SRPWM="0" WSPDM="0" CRLVM="0" TEMPM="3" SNOWM="0" PRSTM="0" WDIRP="0"/>
+<marker lat="44.07129" lon="9.93842" code="MROC" name="Monte Rocchetta" elev="405" RAINC="3" BVTGM="3" REHUM="3" SRPWM="3" WSPDM="3" CRLVM="0" TEMPM="3" SNOWM="0" PRSTM="0" WDIRP="3"/>
+<marker lat="44.29669" lon="9.3735" code="CAVI" name="Cavi di Lavagna" elev="110" RAINC="3" BVTGM="3" REHUM="3" SRPWM="3" WSPDM="3" CRLVM="0" TEMPM="3" SNOWM="0" PRSTM="0" WDIRP="3"/>
+<marker lat="44.43439" lon="8.96109" code="PCAR" name="Genova - Gavette" elev="30" RAINC="3" BVTGM="3" REHUM="0" SRPWM="0" WSPDM="0" CRLVM="0" TEMPM="0" SNOWM="0" PRSTM="0" WDIRP="0"/>
+<marker lat="44.14665" lon="8.26235" code="PLIG" name="Castellari" elev="91" RAINC="3" BVTGM="3" REHUM="3" SRPWM="3" WSPDM="3" CRLVM="0" TEMPM="3" SNOWM="0" PRSTM="0" WDIRP="3"/>
+<marker lat="44.05719" lon="8.04134" code="ONZO" name="Onzo - Ponterotto" elev="115" RAINC="3" BVTGM="3" REHUM="0" SRPWM="0" WSPDM="0" CRLVM="0" TEMPM="3" SNOWM="0" PRSTM="0" WDIRP="0"/>
+<marker lat="44.34006" lon="9.41003" code="CAMN" name="Caminata" elev="90" RAINC="0" BVTGM="3" REHUM="0" SRPWM="0" WSPDM="0" CRLVM="3" TEMPM="0" SNOWM="0" PRSTM="0" WDIRP="0"/>
+<marker lat="44.36957" lon="9.89262" code="PTRE" name="Pontremoli - La Costa" elev="340" RAINC="3" BVTGM="0" REHUM="3" SRPWM="0" WSPDM="3" CRLVM="0" TEMPM="3" SNOWM="0" PRSTM="0" WDIRP="3"/>
+<marker lat="44.33542" lon="8.48011" code="LVGL" name="Lavagnola" elev="253" RAINC="3" BVTGM="3" REHUM="0" SRPWM="0" WSPDM="0" CRLVM="0" TEMPM="3" SNOWM="0" PRSTM="0" WDIRP="0"/>
+<marker lat="44.32709" lon="9.16912" code="MTPO" name="Monte Portofino" elev="610" RAINC="3" BVTGM="3" REHUM="3" SRPWM="3" WSPDM="3" CRLVM="0" TEMPM="3" SNOWM="0" PRSTM="0" WDIRP="3"/>
+<marker lat="44.07491" lon="10.00899" code="LUNI" name="Luni - provasco" elev="5" RAINC="3" BVTGM="3" REHUM="3" SRPWM="3" WSPDM="3" CRLVM="0" TEMPM="3" SNOWM="0" PRSTM="0" WDIRP="3"/>
+<marker lat="44.39278" lon="8.95222" code="GEPV" name="Genova - Punta Vagno" elev="10" RAINC="0" BVTGM="3" REHUM="0" SRPWM="0" WSPDM="3" CRLVM="0" TEMPM="0" SNOWM="0" PRSTM="0" WDIRP="3"/>
+<marker lat="44.24682" lon="10.15149" code="TURA" name="Turano" elev="836" RAINC="3" BVTGM="0" REHUM="0" SRPWM="0" WSPDM="0" CRLVM="0" TEMPM="3" SNOWM="0" PRSTM="0" WDIRP="0"/>
+<marker lat="44.48852" lon="8.9001" code="PONT" name="Genova - Pontedecimo" elev="75" RAINC="3" BVTGM="3" REHUM="0" SRPWM="0" WSPDM="0" CRLVM="3" TEMPM="3" SNOWM="0" PRSTM="0" WDIRP="0"/>
+<marker lat="44.32" lon="10" code="BGNE" name="Bagnone" elev="270" RAINC="3" BVTGM="0" REHUM="0" SRPWM="0" WSPDM="0" CRLVM="3" TEMPM="0" SNOWM="0" PRSTM="0" WDIRP="0"/>
+<marker lat="44.384" lon="9.06066" code="SILA" name="Genova - S.Ilario" elev="174" RAINC="3" BVTGM="3" REHUM="3" SRPWM="3" WSPDM="3" CRLVM="0" TEMPM="3" SNOWM="0" PRSTM="0" WDIRP="3"/>
+<marker lat="44.16397" lon="8.22002" code="VERZ" name="Verzi Loano" elev="450" RAINC="3" BVTGM="3" REHUM="0" SRPWM="0" WSPDM="0" CRLVM="0" TEMPM="3" SNOWM="0" PRSTM="0" WDIRP="0"/>
+<marker lat="44.19573" lon="8.30205" code="CALG" name="Calice Ligure - Ca rosse" elev="50" RAINC="3" BVTGM="3" REHUM="0" SRPWM="0" WSPDM="0" CRLVM="0" TEMPM="3" SNOWM="0" PRSTM="0" WDIRP="0"/>
+<marker lat="44.48555" lon="8.97849" code="VICO" name="Vicomorasso" elev="310" RAINC="3" BVTGM="3" REHUM="0" SRPWM="0" WSPDM="0" CRLVM="0" TEMPM="3" SNOWM="0" PRSTM="0" WDIRP="0"/>
+<marker lat="44.36057" lon="9.89642" code="PSGI" name="Pontremoli - S.Giustina (Rete Toscana)" elev="180" RAINC="0" BVTGM="0" REHUM="0" SRPWM="0" WSPDM="0" CRLVM="3" TEMPM="0" SNOWM="0" PRSTM="0" WDIRP="0"/>
+<marker lat="44.08053" lon="8.15823" code="CISN" name="Cisano sul Neva (meteo)" elev="40" RAINC="3" BVTGM="3" REHUM="0" SRPWM="0" WSPDM="0" CRLVM="0" TEMPM="3" SNOWM="0" PRSTM="0" WDIRP="0"/>
+<marker lat="43.91987" lon="8.06768" code="DCAV" name="Diano Castello - Varcavello" elev="56" RAINC="3" BVTGM="3" REHUM="3" SRPWM="3" WSPDM="3" CRLVM="0" TEMPM="3" SNOWM="0" PRSTM="0" WDIRP="3"/>
+<marker lat="44.52561" lon="8.60839" code="TIGL" name="Tiglieto" elev="500" RAINC="0" BVTGM="0" REHUM="0" SRPWM="0" WSPDM="0" CRLVM="3" TEMPM="0" SNOWM="0" PRSTM="0" WDIRP="0"/>
+<marker lat="44.34555" lon="8.43753" code="SANT" name="Santuario di Savona" elev="90" RAINC="3" BVTGM="3" REHUM="0" SRPWM="0" WSPDM="0" CRLVM="3" TEMPM="3" SNOWM="0" PRSTM="0" WDIRP="0"/>
+<marker lat="44.33439" lon="9.89834" code="PTEG" name="Ponte Teglia" elev="206" RAINC="0" BVTGM="0" REHUM="0" SRPWM="0" WSPDM="0" CRLVM="3" TEMPM="0" SNOWM="0" PRSTM="0" WDIRP="0"/>
+<marker lat="44.34967" lon="9.69908" code="CUCC" name="Cuccarello" elev="835" RAINC="3" BVTGM="3" REHUM="3" SRPWM="0" WSPDM="3" CRLVM="0" TEMPM="3" SNOWM="0" PRSTM="0" WDIRP="3"/>
+<marker lat="44.38313" lon="9.5842" code="VLIG" name="Varese Ligure" elev="345" RAINC="3" BVTGM="3" REHUM="3" SRPWM="0" WSPDM="0" CRLVM="0" TEMPM="3" SNOWM="3" PRSTM="0" WDIRP="0"/>
+<marker lat="44.41582" lon="8.48252" code="SGIU" name="Stella S. Giustina" elev="349" RAINC="3" BVTGM="3" REHUM="0" SRPWM="0" WSPDM="0" CRLVM="3" TEMPM="3" SNOWM="0" PRSTM="0" WDIRP="0"/>
+<marker lat="44.00653" lon="8.03517" code="TEST" name="Testico" elev="439" RAINC="3" BVTGM="3" REHUM="0" SRPWM="0" WSPDM="0" CRLVM="0" TEMPM="3" SNOWM="0" PRSTM="0" WDIRP="0"/>
+<marker lat="44.15735" lon="9.89234" code="SSMH" name="S. Stefano Magra Idro" elev="16" RAINC="0" BVTGM="0" REHUM="0" SRPWM="0" WSPDM="0" CRLVM="0" TEMPM="0" SNOWM="0" PRSTM="0" WDIRP="0"/>
+<marker lat="44.54856" lon="8.95422" code="MTEC" name="Monte Cappellino" elev="620" RAINC="3" BVTGM="3" REHUM="3" SRPWM="0" WSPDM="3" CRLVM="0" TEMPM="3" SNOWM="0" PRSTM="0" WDIRP="3"/>
+<marker lat="44.37234" lon="8.57322" code="BOLN" name="Bolsine" elev="26" RAINC="3" BVTGM="3" REHUM="0" SRPWM="0" WSPDM="0" CRLVM="3" TEMPM="3" SNOWM="0" PRSTM="0" WDIRP="0"/>
+<marker lat="43.98131" lon="7.86667" code="CODO" name="Colle D'oggia" elev="1163" RAINC="3" BVTGM="3" REHUM="3" SRPWM="0" WSPDM="0" CRLVM="0" TEMPM="3" SNOWM="0" PRSTM="0" WDIRP="0"/>
+<marker lat="44.40234" lon="8.27224" code="CAIR" name="Cairo Montenotte" elev="388" RAINC="3" BVTGM="0" REHUM="0" SRPWM="0" WSPDM="0" CRLVM="0" TEMPM="3" SNOWM="0" PRSTM="0" WDIRP="0"/>
+<marker lat="44.15319" lon="9.76373" code="RICG" name="Ricco del Golfo" elev="150" RAINC="3" BVTGM="3" REHUM="3" SRPWM="0" WSPDM="0" CRLVM="0" TEMPM="3" SNOWM="0" PRSTM="0" WDIRP="0"/>
+<marker lat="44.40645" lon="8.62464" code="SCRB" name="Sciarborasca" elev="225" RAINC="3" BVTGM="3" REHUM="3" SRPWM="0" WSPDM="0" CRLVM="0" TEMPM="3" SNOWM="0" PRSTM="0" WDIRP="0"/>
+<marker lat="44.19801" lon="9.84904" code="PBAT" name="Piana Battolla - Ponte" elev="48" RAINC="3" BVTGM="3" REHUM="0" SRPWM="0" WSPDM="0" CRLVM="3" TEMPM="0" SNOWM="0" PRSTM="0" WDIRP="0"/>
+<marker lat="44.06542" lon="8.00433" code="RANZ" name="Ranzo" elev="343" RAINC="3" BVTGM="3" REHUM="3" SRPWM="3" WSPDM="3" CRLVM="0" TEMPM="3" SNOWM="0" PRSTM="0" WDIRP="3"/>
+<marker lat="44.11139" lon="9.98083" code="SACN" name="Sarzana - Nave" elev="22" RAINC="0" BVTGM="0" REHUM="0" SRPWM="0" WSPDM="0" CRLVM="0" TEMPM="0" SNOWM="0" PRSTM="0" WDIRP="0"/>
+<marker lat="43.82265" lon="7.78625" code="SANR" name="Sanremo" elev="61" RAINC="3" BVTGM="3" REHUM="3" SRPWM="3" WSPDM="3" CRLVM="0" TEMPM="3" SNOWM="0" PRSTM="3" WDIRP="3"/>
+<marker lat="44.53635" lon="9.20544" code="BRUG" name="Brugneto Diga" elev="777" RAINC="3" BVTGM="0" REHUM="0" SRPWM="0" WSPDM="0" CRLVM="0" TEMPM="3" SNOWM="0" PRSTM="0" WDIRP="0"/>
+<marker lat="44.33428" lon="8.34782" code="SLSV" name="Altare" elev="470" RAINC="3" BVTGM="3" REHUM="0" SRPWM="0" WSPDM="0" CRLVM="0" TEMPM="3" SNOWM="0" PRSTM="0" WDIRP="0"/>
+<marker lat="44.33721" lon="9.82251" code="PPIC" name="Pietra Piccata" elev="980" RAINC="3" BVTGM="0" REHUM="0" SRPWM="0" WSPDM="3" CRLVM="0" TEMPM="3" SNOWM="0" PRSTM="0" WDIRP="3"/>
+<marker lat="44.34209" lon="9.35624" code="PANE" name="Panesi" elev="25" RAINC="3" BVTGM="3" REHUM="0" SRPWM="0" WSPDM="0" CRLVM="3" TEMPM="0" SNOWM="0" PRSTM="0" WDIRP="0"/>
+<marker lat="44.37488" lon="9.45774" code="REPP" name="Reppia" elev="530" RAINC="3" BVTGM="3" REHUM="3" SRPWM="0" WSPDM="0" CRLVM="0" TEMPM="3" SNOWM="0" PRSTM="0" WDIRP="0"/>
+<marker lat="44.39625" lon="8.98468" code="GSTU" name="Genova - Sturla" elev="10" RAINC="0" BVTGM="3" REHUM="0" SRPWM="0" WSPDM="0" CRLVM="3" TEMPM="0" SNOWM="0" PRSTM="0" WDIRP="0"/>
+<marker lat="44.17888" lon="9.6187" code="LEVA" name="Levanto - San Gottardo" elev="85" RAINC="3" BVTGM="3" REHUM="3" SRPWM="3" WSPDM="3" CRLVM="0" TEMPM="3" SNOWM="0" PRSTM="0" WDIRP="3"/>
+<marker lat="44.57722" lon="9.28306" code="ROVE" name="Rovegno" elev="694" RAINC="3" BVTGM="0" REHUM="0" SRPWM="0" WSPDM="0" CRLVM="0" TEMPM="3" SNOWM="0" PRSTM="0" WDIRP="0"/>
+<marker lat="44.10703" lon="9.82819" code="SPE2" name="La Spezia" elev="35" RAINC="3" BVTGM="3" REHUM="3" SRPWM="3" WSPDM="3" CRLVM="0" TEMPM="3" SNOWM="0" PRSTM="3" WDIRP="3"/>
+<marker lat="43.97713" lon="7.95315" code="BMRO" name="Borgomaro" elev="250" RAINC="3" BVTGM="3" REHUM="0" SRPWM="0" WSPDM="3" CRLVM="0" TEMPM="3" SNOWM="0" PRSTM="0" WDIRP="3"/>
+<marker lat="44.21359" lon="9.54033" code="FRAM" name="Framura" elev="421" RAINC="3" BVTGM="3" REHUM="3" SRPWM="3" WSPDM="3" CRLVM="0" TEMPM="3" SNOWM="0" PRSTM="3" WDIRP="3"/>
+<marker lat="44.42429" lon="9.41013" code="BRZN" name="Borzone" elev="386" RAINC="3" BVTGM="3" REHUM="3" SRPWM="0" WSPDM="0" CRLVM="0" TEMPM="3" SNOWM="0" PRSTM="0" WDIRP="0"/>
+<marker lat="44.09466" lon="9.80944" code="SPEZ" name="La Spezia - Fabiano" elev="60" RAINC="3" BVTGM="3" REHUM="0" SRPWM="0" WSPDM="0" CRLVM="0" TEMPM="3" SNOWM="0" PRSTM="0" WDIRP="0"/>
+<marker lat="43.82756" lon="7.6985" code="SEBO" name="Seborga" elev="550" RAINC="3" BVTGM="3" REHUM="3" SRPWM="0" WSPDM="0" CRLVM="0" TEMPM="3" SNOWM="0" PRSTM="0" WDIRP="0"/>
+<marker lat="44.23234" lon="8.20245" code="MELO" name="Colle del Melogno" elev="1004" RAINC="3" BVTGM="3" REHUM="0" SRPWM="0" WSPDM="0" CRLVM="0" TEMPM="3" SNOWM="0" PRSTM="0" WDIRP="0"/>
+<marker lat="43.83103" lon="7.54322" code="CLRO" name="Colla Rossa" elev="460" RAINC="3" BVTGM="3" REHUM="3" SRPWM="0" WSPDM="0" CRLVM="0" TEMPM="3" SNOWM="0" PRSTM="0" WDIRP="0"/>
+<marker lat="44.57232" lon="8.65776" code="ROS3" name="Rossiglione" elev="436" RAINC="3" BVTGM="0" REHUM="0" SRPWM="0" WSPDM="0" CRLVM="0" TEMPM="3" SNOWM="0" PRSTM="0" WDIRP="0"/>
+<marker lat="44.15582" lon="10.03346" code="TEND" name="Tendola" elev="361" RAINC="3" BVTGM="0" REHUM="0" SRPWM="0" WSPDM="0" CRLVM="0" TEMPM="3" SNOWM="0" PRSTM="0" WDIRP="0"/>
+<marker lat="44.00624" lon="8.1693" code="ALAS" name="Alassio" elev="25" RAINC="3" BVTGM="3" REHUM="3" SRPWM="3" WSPDM="0" CRLVM="0" TEMPM="3" SNOWM="0" PRSTM="0" WDIRP="0"/>
+<marker lat="44.08552" lon="8.14573" code="CNEV" name="Cisano sul Neva" elev="52" RAINC="0" BVTGM="3" REHUM="0" SRPWM="0" WSPDM="0" CRLVM="3" TEMPM="0" SNOWM="0" PRSTM="0" WDIRP="0"/>
+<marker lat="43.97923" lon="8.10363" code="CONN" name="Conna" elev="350" RAINC="3" BVTGM="3" REHUM="3" SRPWM="0" WSPDM="0" CRLVM="0" TEMPM="3" SNOWM="0" PRSTM="0" WDIRP="0"/>
+<marker lat="44.25803" lon="8.44944" code="VADO" name="Capo Vado" elev="170" RAINC="0" BVTGM="0" REHUM="0" SRPWM="0" WSPDM="0" CRLVM="0" TEMPM="0" SNOWM="0" PRSTM="0" WDIRP="0"/>
+<marker lat="44.44372" lon="9.16994" code="OGNO" name="Ognio" elev="490" RAINC="3" BVTGM="3" REHUM="0" SRPWM="0" WSPDM="0" CRLVM="0" TEMPM="3" SNOWM="0" PRSTM="0" WDIRP="0"/>
+<marker lat="44.16905" lon="10.14987" code="EQUI" name="Equi Terme" elev="300" RAINC="3" BVTGM="0" REHUM="0" SRPWM="0" WSPDM="0" CRLVM="0" TEMPM="3" SNOWM="0" PRSTM="0" WDIRP="0"/>
+<marker lat="44.04202" lon="7.79343" code="FEAR" name="Poggio Fearza" elev="1845" RAINC="3" BVTGM="3" REHUM="3" SRPWM="3" WSPDM="3" CRLVM="0" TEMPM="3" SNOWM="0" PRSTM="0" WDIRP="3"/>
+<marker lat="44.20233" lon="10.06207" code="SOLI" name="Soliera" elev="107" RAINC="3" BVTGM="3" REHUM="0" SRPWM="0" WSPDM="0" CRLVM="3" TEMPM="0" SNOWM="0" PRSTM="0" WDIRP="0"/>
+<marker lat="44.19802" lon="9.95015" code="CAL1" name="Calamazza" elev="45" RAINC="0" BVTGM="3" REHUM="0" SRPWM="0" WSPDM="0" CRLVM="3" TEMPM="0" SNOWM="0" PRSTM="0" WDIRP="0"/>
+<marker lat="44.51685" lon="9.15962" code="TORR" name="Torriglia" elev="769" RAINC="3" BVTGM="0" REHUM="0" SRPWM="0" WSPDM="0" CRLVM="0" TEMPM="3" SNOWM="0" PRSTM="0" WDIRP="0"/>
+<marker lat="44.46494" lon="8.70493" code="FIOR" name="Fiorino" elev="290" RAINC="3" BVTGM="3" REHUM="0" SRPWM="0" WSPDM="0" CRLVM="0" TEMPM="3" SNOWM="0" PRSTM="0" WDIRP="0"/>
+<marker lat="44.13254" lon="9.7903" code="LFMV" name="La Foce - Mte Viseggi" elev="350" RAINC="3" BVTGM="3" REHUM="0" SRPWM="0" WSPDM="0" CRLVM="0" TEMPM="3" SNOWM="0" PRSTM="0" WDIRP="0"/>
+<marker lat="44.38154" lon="9.37385" code="VIGN" name="Vignolo" elev="71" RAINC="0" BVTGM="3" REHUM="0" SRPWM="0" WSPDM="0" CRLVM="3" TEMPM="0" SNOWM="0" PRSTM="0" WDIRP="0"/>
+<marker lat="43.94153" lon="8.00619" code="RUGG" name="Rugge di Pontedassio" elev="67" RAINC="0" BVTGM="3" REHUM="0" SRPWM="0" WSPDM="0" CRLVM="3" TEMPM="0" SNOWM="0" PRSTM="0" WDIRP="0"/>
+<marker lat="43.8375" lon="7.55401" code="TORI" name="Torri" elev="66" RAINC="0" BVTGM="3" REHUM="0" SRPWM="0" WSPDM="0" CRLVM="3" TEMPM="0" SNOWM="0" PRSTM="0" WDIRP="0"/>
+<marker lat="44.53013" lon="8.85822" code="ISO3" name="Isoverde" elev="300" RAINC="3" BVTGM="3" REHUM="3" SRPWM="0" WSPDM="0" CRLVM="0" TEMPM="3" SNOWM="0" PRSTM="0" WDIRP="0"/>
+<marker lat="44.48758" lon="9.18206" code="SEGI" name="Sella Giassina" elev="895" RAINC="3" BVTGM="3" REHUM="3" SRPWM="0" WSPDM="0" CRLVM="0" TEMPM="3" SNOWM="0" PRSTM="0" WDIRP="0"/>
+<marker lat="44.44876" lon="9.01531" code="ROSA" name="Genova - Rosata" elev="74" RAINC="0" BVTGM="0" REHUM="0" SRPWM="0" WSPDM="0" CRLVM="0" TEMPM="0" SNOWM="0" PRSTM="0" WDIRP="0"/>
+<marker lat="44.30407" lon="10.21694" code="PCER" name="Passo del Cerreto" elev="1248" RAINC="3" BVTGM="0" REHUM="0" SRPWM="0" WSPDM="0" CRLVM="0" TEMPM="3" SNOWM="0" PRSTM="0" WDIRP="0"/>
+<marker lat="44.46781" lon="9.09539" code="DVG2" name="Davagna" elev="467" RAINC="3" BVTGM="3" REHUM="3" SRPWM="0" WSPDM="0" CRLVM="0" TEMPM="3" SNOWM="0" PRSTM="0" WDIRP="0"/>
+<marker lat="44.23132" lon="9.71552" code="BVAR" name="Brugnato" elev="112" RAINC="3" BVTGM="3" REHUM="0" SRPWM="0" WSPDM="0" CRLVM="3" TEMPM="0" SNOWM="0" PRSTM="0" WDIRP="0"/>
+<marker lat="44.12951" lon="9.86892" code="MBEV" name="Monte Beverone" elev="220" RAINC="0" BVTGM="3" REHUM="3" SRPWM="3" WSPDM="3" CRLVM="0" TEMPM="3" SNOWM="0" PRSTM="0" WDIRP="3"/>
+<marker lat="44.27808" lon="9.65595" code="NAS1" name="Nasceto" elev="185" RAINC="0" BVTGM="3" REHUM="0" SRPWM="0" WSPDM="0" CRLVM="3" TEMPM="0" SNOWM="0" PRSTM="0" WDIRP="0"/>
+<marker lat="43.98152" lon="7.69983" code="CBEL" name="Colle Belenda " elev="1357" RAINC="3" BVTGM="3" REHUM="3" SRPWM="3" WSPDM="0" CRLVM="0" TEMPM="3" SNOWM="0" PRSTM="3" WDIRP="0"/>
+<marker lat="44.1709" lon="10.208" code="MNUC" name="Minucciano" elev="660" RAINC="3" BVTGM="0" REHUM="0" SRPWM="0" WSPDM="0" CRLVM="0" TEMPM="0" SNOWM="0" PRSTM="0" WDIRP="0"/>
+<marker lat="44.33304" lon="10.03354" code="IERA" name="Iera" elev="494" RAINC="3" BVTGM="0" REHUM="0" SRPWM="0" WSPDM="0" CRLVM="0" TEMPM="3" SNOWM="0" PRSTM="0" WDIRP="0"/>
+<marker lat="44.54256" lon="8.6939" code="CPLG" name="Campo Ligure" elev="335" RAINC="3" BVTGM="3" REHUM="0" SRPWM="0" WSPDM="0" CRLVM="3" TEMPM="0" SNOWM="0" PRSTM="0" WDIRP="0"/>
+<marker lat="43.9333" lon="8.0007" code="BEST" name="Bestagno" elev="281" RAINC="3" BVTGM="3" REHUM="0" SRPWM="0" WSPDM="0" CRLVM="0" TEMPM="3" SNOWM="0" PRSTM="0" WDIRP="0"/>
+<marker lat="43.9059" lon="7.9515" code="DODO" name="Dolcedo" elev="77" RAINC="3" BVTGM="3" REHUM="0" SRPWM="0" WSPDM="0" CRLVM="0" TEMPM="3" SNOWM="0" PRSTM="0" WDIRP="0"/>
+<marker lat="44.42032" lon="8.97019" code="GEFR" name="Genova - Fereggiano" elev="28" RAINC="0" BVTGM="3" REHUM="0" SRPWM="0" WSPDM="0" CRLVM="3" TEMPM="0" SNOWM="0" PRSTM="0" WDIRP="0"/>
+<marker lat="44.2747" lon="9.65964" code="SMAV" name="S. Margherita Vara" elev="180" RAINC="3" BVTGM="3" REHUM="0" SRPWM="0" WSPDM="0" CRLVM="0" TEMPM="3" SNOWM="0" PRSTM="0" WDIRP="0"/>
+<marker lat="44.052" lon="9.83594" code="PVEN" name="Portovenere - Comune" elev="40" RAINC="3" BVTGM="3" REHUM="0" SRPWM="0" WSPDM="0" CRLVM="0" TEMPM="3" SNOWM="0" PRSTM="0" WDIRP="0"/>
+<marker lat="44.4553" lon="8.89561" code="BOZN" name="Genova - Bolzaneto" elev="47" RAINC="3" BVTGM="3" REHUM="0" SRPWM="0" WSPDM="0" CRLVM="0" TEMPM="3" SNOWM="0" PRSTM="0" WDIRP="0"/>
+<marker lat="44.27" lon="9.42966" code="SARA" name="Sestri Levante - Sara" elev="13" RAINC="3" BVTGM="3" REHUM="0" SRPWM="0" WSPDM="0" CRLVM="3" TEMPM="0" SNOWM="0" PRSTM="0" WDIRP="0"/>
+<marker lat="44.43788" lon="8.88952" code="GERI" name="Genova - Rivarolo" elev="26" RAINC="0" BVTGM="3" REHUM="0" SRPWM="0" WSPDM="0" CRLVM="3" TEMPM="0" SNOWM="0" PRSTM="0" WDIRP="0"/>
+<marker lat="44.51775" lon="8.67306" code="PRAI" name="Prai" elev="820" RAINC="3" BVTGM="3" REHUM="3" SRPWM="0" WSPDM="0" CRLVM="0" TEMPM="3" SNOWM="0" PRSTM="0" WDIRP="0"/>
+<marker lat="44.35237" lon="9.58414" code="CEMB" name="Cembrano" elev="410" RAINC="3" BVTGM="3" REHUM="0" SRPWM="0" WSPDM="0" CRLVM="0" TEMPM="3" SNOWM="0" PRSTM="0" WDIRP="0"/>
+<marker lat="43.78777" lon="7.61211" code="XXMG" name="Ventimiglia" elev="21" RAINC="3" BVTGM="3" REHUM="3" SRPWM="0" WSPDM="0" CRLVM="0" TEMPM="3" SNOWM="0" PRSTM="0" WDIRP="0"/>
+<marker lat="44.23413" lon="8.11822" code="CALI" name="Calizzano" elev="647" RAINC="3" BVTGM="0" REHUM="0" SRPWM="0" WSPDM="0" CRLVM="0" TEMPM="3" SNOWM="0" PRSTM="0" WDIRP="0"/>
+<marker lat="44.48618" lon="8.30735" code="CRIX" name="Piana Crixia" elev="267" RAINC="0" BVTGM="0" REHUM="0" SRPWM="0" WSPDM="0" CRLVM="3" TEMPM="0" SNOWM="0" PRSTM="0" WDIRP="0"/>
+<marker lat="44.43946" lon="8.74603" code="MOLI" name="Molinetto" elev="35" RAINC="0" BVTGM="3" REHUM="0" SRPWM="0" WSPDM="0" CRLVM="3" TEMPM="0" SNOWM="0" PRSTM="0" WDIRP="0"/>
+<marker lat="44.36182" lon="9.89656" code="MASG" name="Pontremoli - S.Giustina" elev="180" RAINC="3" BVTGM="3" REHUM="0" SRPWM="0" WSPDM="0" CRLVM="3" TEMPM="0" SNOWM="0" PRSTM="0" WDIRP="0"/>
+<marker lat="44.4053" lon="9.6205" code="TAGL" name="Taglieto" elev="895" RAINC="3" BVTGM="3" REHUM="0" SRPWM="0" WSPDM="3" CRLVM="0" TEMPM="3" SNOWM="0" PRSTM="0" WDIRP="3"/>
+<marker lat="44.54724" lon="9.45159" code="SSAV" name="S. Stefano d'Aveto" elev="1322" RAINC="3" BVTGM="0" REHUM="0" SRPWM="0" WSPDM="0" CRLVM="0" TEMPM="3" SNOWM="0" PRSTM="0" WDIRP="0"/>
+<marker lat="44.31885" lon="9.32978" code="CHRI" name="Chiavari" elev="50" RAINC="3" BVTGM="3" REHUM="3" SRPWM="0" WSPDM="0" CRLVM="0" TEMPM="3" SNOWM="0" PRSTM="0" WDIRP="0"/>
+<marker lat="44.0925" lon="9.99806" code="CMCO" name="Castelnuovo Magra - Colombiera" elev="21" RAINC="0" BVTGM="0" REHUM="0" SRPWM="0" WSPDM="0" CRLVM="0" TEMPM="0" SNOWM="0" PRSTM="0" WDIRP="0"/>
+<marker lat="44.3362" lon="9.21045" code="SMAL" name="S. Margherita Ligure" elev="20" RAINC="3" BVTGM="3" REHUM="3" SRPWM="3" WSPDM="3" CRLVM="0" TEMPM="3" SNOWM="0" PRSTM="3" WDIRP="3"/>
+<marker lat="44.29506" lon="9.48136" code="BRGN" name="Bargone" elev="260" RAINC="3" BVTGM="3" REHUM="3" SRPWM="0" WSPDM="0" CRLVM="0" TEMPM="3" SNOWM="0" PRSTM="0" WDIRP="0"/>
+<marker lat="44.2908" lon="9.95065" code="VLFR" name="Villafranca Lunigiana" elev="133" RAINC="0" BVTGM="0" REHUM="0" SRPWM="0" WSPDM="0" CRLVM="0" TEMPM="0" SNOWM="0" PRSTM="0" WDIRP="0"/>
+<marker lat="44.34704" lon="9.15931" code="CAMO" name="Camogli" elev="60" RAINC="3" BVTGM="3" REHUM="3" SRPWM="0" WSPDM="3" CRLVM="0" TEMPM="3" SNOWM="0" PRSTM="0" WDIRP="3"/>
+<marker lat="44.34615" lon="9.34825" code="CAR2" name="Carasco" elev="26" RAINC="0" BVTGM="3" REHUM="0" SRPWM="0" WSPDM="0" CRLVM="3" TEMPM="0" SNOWM="0" PRSTM="0" WDIRP="0"/>
+<marker lat="44.10632" lon="9.73483" code="CRNL" name="Corniolo" elev="238" RAINC="3" BVTGM="3" REHUM="3" SRPWM="3" WSPDM="3" CRLVM="0" TEMPM="3" SNOWM="0" PRSTM="0" WDIRP="3"/>
+<marker lat="44.47419" lon="8.73312" code="MELE" name="Mele" elev="270" RAINC="3" BVTGM="3" REHUM="0" SRPWM="0" WSPDM="0" CRLVM="0" TEMPM="3" SNOWM="0" PRSTM="0" WDIRP="0"/>
+<marker lat="44.55421" lon="9.28421" code="LOCO" name="Loco Carchelli" elev="600" RAINC="3" BVTGM="3" REHUM="0" SRPWM="0" WSPDM="0" CRLVM="0" TEMPM="3" SNOWM="0" PRSTM="0" WDIRP="0"/>
+<marker lat="43.88137" lon="7.84759" code="MERE" name="Merelli" elev="70" RAINC="0" BVTGM="3" REHUM="0" SRPWM="0" WSPDM="0" CRLVM="3" TEMPM="0" SNOWM="0" PRSTM="0" WDIRP="0"/>
+<marker lat="44.19514" lon="9.77099" code="PDVR" name="Padivarma" elev="75" RAINC="3" BVTGM="3" REHUM="0" SRPWM="0" WSPDM="3" CRLVM="0" TEMPM="3" SNOWM="0" PRSTM="0" WDIRP="3"/>
+<marker lat="44.07884" lon="9.9722" code="AMFM" name="Ameglia Foce Magra" elev="4" RAINC="0" BVTGM="3" REHUM="0" SRPWM="0" WSPDM="0" CRLVM="3" TEMPM="0" SNOWM="0" PRSTM="0" WDIRP="0"/>
+<marker lat="44.39365" lon="9.27102" code="PRTI" name="Pian dei Ratti" elev="70" RAINC="3" BVTGM="3" REHUM="3" SRPWM="0" WSPDM="0" CRLVM="0" TEMPM="3" SNOWM="0" PRSTM="0" WDIRP="0"/>
+<marker lat="44.46953" lon="8.62739" code="URVS" name="Urbe - Vara Sup" elev="810" RAINC="3" BVTGM="3" REHUM="3" SRPWM="0" WSPDM="0" CRLVM="0" TEMPM="3" SNOWM="3" PRSTM="3" WDIRP="0"/>
+<marker lat="44.48613" lon="8.73602" code="TURC" name="Passo del Turchino" elev="590" RAINC="3" BVTGM="3" REHUM="0" SRPWM="0" WSPDM="3" CRLVM="0" TEMPM="3" SNOWM="0" PRSTM="0" WDIRP="3"/>
+<marker lat="44.0046" lon="10.5492" code="FRNL" name="Fornoli" elev="150" RAINC="0" BVTGM="0" REHUM="0" SRPWM="0" WSPDM="0" CRLVM="3" TEMPM="0" SNOWM="0" PRSTM="0" WDIRP="0"/>
+<marker lat="44.30352" lon="10.1196" code="COMN" name="Comano" elev="735" RAINC="3" BVTGM="0" REHUM="0" SRPWM="0" WSPDM="0" CRLVM="0" TEMPM="3" SNOWM="0" PRSTM="0" WDIRP="0"/>
+<marker lat="44.28647" lon="8.20254" code="OSIG" name="Osiglia" elev="620" RAINC="3" BVTGM="0" REHUM="0" SRPWM="0" WSPDM="0" CRLVM="0" TEMPM="3" SNOWM="0" PRSTM="0" WDIRP="0"/>
+<marker lat="43.91862" lon="7.69454" code="PIZZ" name="Pizzeglio" elev="655" RAINC="3" BVTGM="3" REHUM="3" SRPWM="0" WSPDM="0" CRLVM="0" TEMPM="3" SNOWM="0" PRSTM="0" WDIRP="0"/>
+<marker lat="44.23991" lon="10.00267" code="LICN" name="Licciana Nardi" elev="165" RAINC="3" BVTGM="0" REHUM="0" SRPWM="0" WSPDM="0" CRLVM="3" TEMPM="3" SNOWM="0" PRSTM="0" WDIRP="0"/>
+<marker lat="44.29318" lon="8.29792" code="MALL" name="Mallare" elev="467" RAINC="3" BVTGM="0" REHUM="0" SRPWM="0" WSPDM="0" CRLVM="0" TEMPM="3" SNOWM="0" PRSTM="0" WDIRP="0"/>
+<marker lat="44.46268" lon="9.39525" code="GPI2" name="Giacopiane - Diga" elev="1009" RAINC="3" BVTGM="3" REHUM="0" SRPWM="0" WSPDM="0" CRLVM="0" TEMPM="3" SNOWM="0" PRSTM="0" WDIRP="0"/>
+<marker lat="44.48017" lon="8.79867" code="MOPL" name="Monte Pennello" elev="980" RAINC="3" BVTGM="3" REHUM="3" SRPWM="3" WSPDM="3" CRLVM="0" TEMPM="3" SNOWM="0" PRSTM="0" WDIRP="3"/>
+<marker lat="43.7933" lon="7.61888" code="MAUR" name="Monte Maure" elev="210" RAINC="3" BVTGM="3" REHUM="0" SRPWM="0" WSPDM="3" CRLVM="0" TEMPM="3" SNOWM="0" PRSTM="0" WDIRP="3"/>
+<marker lat="44.11227" lon="9.96546" code="SRZA" name="Sarzana" elev="26" RAINC="3" BVTGM="3" REHUM="0" SRPWM="0" WSPDM="0" CRLVM="0" TEMPM="3" SNOWM="0" PRSTM="0" WDIRP="0"/>
+<marker lat="44.41259" lon="8.41176" code="MINF" name="Montenotte Inferiore" elev="564" RAINC="3" BVTGM="0" REHUM="0" SRPWM="0" WSPDM="0" CRLVM="0" TEMPM="3" SNOWM="0" PRSTM="0" WDIRP="0"/>
+<marker lat="44.48218" lon="9.24202" code="BGEL" name="Barbagelata" elev="1100" RAINC="3" BVTGM="0" REHUM="0" SRPWM="0" WSPDM="0" CRLVM="0" TEMPM="3" SNOWM="0" PRSTM="0" WDIRP="0"/>
+<marker lat="43.99451" lon="7.76242" code="TRIO" name="Triora" elev="789" RAINC="3" BVTGM="3" REHUM="0" SRPWM="0" WSPDM="0" CRLVM="0" TEMPM="3" SNOWM="0" PRSTM="0" WDIRP="0"/>
+<marker lat="44.1483" lon="9.6402" code="MROS" name="Monterosso" elev="75" RAINC="3" BVTGM="3" REHUM="0" SRPWM="0" WSPDM="0" CRLVM="0" TEMPM="3" SNOWM="0" PRSTM="0" WDIRP="0"/>
+<marker lat="44.27377" lon="9.40992" code="SLEV" name="Sestri Levante" elev="10" RAINC="0" BVTGM="3" REHUM="0" SRPWM="0" WSPDM="0" CRLVM="3" TEMPM="0" SNOWM="0" PRSTM="0" WDIRP="0"/>
+<marker lat="44.18992" lon="9.71496" code="PIGO" name="Casale di Pignone" elev="175" RAINC="3" BVTGM="3" REHUM="0" SRPWM="0" WSPDM="0" CRLVM="0" TEMPM="3" SNOWM="0" PRSTM="0" WDIRP="0"/>
+<marker lat="44.42367" lon="8.9726" code="GEQU" name="Genova - Quezzi" elev="200" RAINC="3" BVTGM="3" REHUM="3" SRPWM="0" WSPDM="0" CRLVM="0" TEMPM="3" SNOWM="0" PRSTM="0" WDIRP="0"/>
+<marker lat="44.42422" lon="9.28492" code="ORER" name="Croce Orero" elev="640" RAINC="3" BVTGM="3" REHUM="0" SRPWM="0" WSPDM="0" CRLVM="0" TEMPM="3" SNOWM="0" PRSTM="0" WDIRP="0"/>
+<marker lat="44.04425" lon="7.72108" code="VERD" name="Verdeggia" elev="1120" RAINC="3" BVTGM="3" REHUM="3" SRPWM="0" WSPDM="0" CRLVM="0" TEMPM="3" SNOWM="3" PRSTM="0" WDIRP="0"/>
+<marker lat="44.52038" lon="8.94744" code="VREG" name="Valleregia" elev="407" RAINC="3" BVTGM="3" REHUM="0" SRPWM="0" WSPDM="0" CRLVM="0" TEMPM="3" SNOWM="0" PRSTM="0" WDIRP="0"/>
+<marker lat="44.24499" lon="9.61474" code="MATR" name="Mattarana" elev="470" RAINC="3" BVTGM="3" REHUM="0" SRPWM="0" WSPDM="0" CRLVM="0" TEMPM="3" SNOWM="0" PRSTM="0" WDIRP="0"/>
+<marker lat="44.454" lon="8.98636" code="GEML" name="Genova - Molassana" elev="62" RAINC="0" BVTGM="3" REHUM="0" SRPWM="0" WSPDM="0" CRLVM="3" TEMPM="0" SNOWM="0" PRSTM="0" WDIRP="0"/>
+<marker lat="43.90463" lon="7.73328" code="CERI" name="Passo Ghimbegna" elev="931" RAINC="3" BVTGM="3" REHUM="0" SRPWM="0" WSPDM="0" CRLVM="0" TEMPM="3" SNOWM="0" PRSTM="0" WDIRP="0"/>
+<marker lat="44.32931" lon="8.50887" code="ALBI" name="Albisola" elev="3" RAINC="0" BVTGM="3" REHUM="0" SRPWM="0" WSPDM="0" CRLVM="3" TEMPM="0" SNOWM="0" PRSTM="0" WDIRP="0"/>
+<marker lat="44.36638" lon="8.4667" code="ELRA" name="Ellera - Foglietto" elev="80" RAINC="3" BVTGM="3" REHUM="0" SRPWM="0" WSPDM="0" CRLVM="0" TEMPM="3" SNOWM="0" PRSTM="0" WDIRP="0"/>
+<marker lat="44.22669" lon="9.96626" code="AUL2" name="Aulla" elev="65" RAINC="0" BVTGM="0" REHUM="0" SRPWM="0" WSPDM="0" CRLVM="0" TEMPM="0" SNOWM="0" PRSTM="0" WDIRP="0"/>
+<marker lat="44.24398" lon="8.19581" code="SETT" name="Monte Settepani" elev="1375" RAINC="3" BVTGM="0" REHUM="3" SRPWM="0" WSPDM="3" CRLVM="0" TEMPM="3" SNOWM="3" PRSTM="0" WDIRP="3"/>
+<marker lat="44.46618" lon="9.92042" code="PACI" name="Passo della Cisa" elev="1015" RAINC="3" BVTGM="0" REHUM="0" SRPWM="0" WSPDM="0" CRLVM="0" TEMPM="0" SNOWM="0" PRSTM="0" WDIRP="0"/>
+<marker lat="44.36189" lon="8.5273" code="SAND" name="Sanda" elev="180" RAINC="3" BVTGM="3" REHUM="0" SRPWM="0" WSPDM="0" CRLVM="0" TEMPM="3" SNOWM="0" PRSTM="0" WDIRP="0"/>
+<marker lat="43.88859" lon="7.60177" code="RCNE" name="Rocchetta Nervina" elev="215" RAINC="3" BVTGM="3" REHUM="0" SRPWM="0" WSPDM="0" CRLVM="0" TEMPM="3" SNOWM="0" PRSTM="0" WDIRP="0"/>
+<marker lat="44.12275" lon="7.99653" code="ALTM" name="Alto - Madonna del lago" elev="1095" RAINC="3" BVTGM="3" REHUM="3" SRPWM="0" WSPDM="0" CRLVM="0" TEMPM="3" SNOWM="3" PRSTM="0" WDIRP="0"/>
+<marker lat="44.12771" lon="10.0014" code="FOSD" name="Fosdinovo" elev="247" RAINC="0" BVTGM="0" REHUM="0" SRPWM="0" WSPDM="0" CRLVM="0" TEMPM="0" SNOWM="0" PRSTM="0" WDIRP="0"/>
+<marker lat="44.45964" lon="8.97959" code="GEGR" name="Genova - Geirato" elev="58" RAINC="3" BVTGM="3" REHUM="0" SRPWM="0" WSPDM="0" CRLVM="3" TEMPM="0" SNOWM="0" PRSTM="0" WDIRP="0"/>
+<marker lat="44.05445" lon="8.06393" code="POGL" name="Pogli d'Ortovero" elev="90" RAINC="0" BVTGM="3" REHUM="0" SRPWM="0" WSPDM="0" CRLVM="3" TEMPM="0" SNOWM="0" PRSTM="0" WDIRP="0"/>
+<marker lat="44.32216" lon="9.34547" code="CHIA" name="Chiavari - Caperana" elev="6" RAINC="3" BVTGM="3" REHUM="3" SRPWM="0" WSPDM="0" CRLVM="0" TEMPM="3" SNOWM="0" PRSTM="0" WDIRP="0"/>
+<marker lat="44.30542" lon="9.76581" code="CASO" name="Casoni di Suvero" elev="1070" RAINC="3" BVTGM="3" REHUM="0" SRPWM="0" WSPDM="3" CRLVM="0" TEMPM="3" SNOWM="0" PRSTM="0" WDIRP="3"/>
+<marker lat="44.13386" lon="8.26713" code="MALO" name="Marina Loano" elev="25" RAINC="0" BVTGM="3" REHUM="0" SRPWM="0" WSPDM="3" CRLVM="0" TEMPM="0" SNOWM="0" PRSTM="0" WDIRP="3"/>
+<marker lat="44.6047" lon="9.2363" code="AGOR" name="Alpe Gorreto" elev="915" RAINC="3" BVTGM="0" REHUM="0" SRPWM="0" WSPDM="0" CRLVM="0" TEMPM="3" SNOWM="0" PRSTM="0" WDIRP="0"/>
+<marker lat="44.2499" lon="9.84" code="CORM" name="Calice al C. - Molunghi" elev="425" RAINC="3" BVTGM="3" REHUM="0" SRPWM="0" WSPDM="0" CRLVM="0" TEMPM="3" SNOWM="0" PRSTM="0" WDIRP="0"/>
+<marker lat="44.13805" lon="9.90619" code="VEZZ" name="Fornola" elev="25" RAINC="3" BVTGM="3" REHUM="0" SRPWM="0" WSPDM="0" CRLVM="3" TEMPM="0" SNOWM="0" PRSTM="0" WDIRP="0"/>
+<marker lat="44.06393" lon="7.86644" code="PORN" name="Pornassio" elev="475" RAINC="3" BVTGM="3" REHUM="3" SRPWM="3" WSPDM="3" CRLVM="0" TEMPM="3" SNOWM="0" PRSTM="0" WDIRP="3"/>
+<marker lat="44.28091" lon="9.86336" code="PARA" name="Parana" elev="695" RAINC="3" BVTGM="0" REHUM="0" SRPWM="0" WSPDM="0" CRLVM="0" TEMPM="3" SNOWM="0" PRSTM="0" WDIRP="0"/>
+<marker lat="43.87968" lon="7.77388" code="CERA" name="Ceriana" elev="370" RAINC="3" BVTGM="3" REHUM="0" SRPWM="0" WSPDM="0" CRLVM="0" TEMPM="0" SNOWM="0" PRSTM="0" WDIRP="0"/>
+<marker lat="44.33297" lon="8.38289" code="CADB" name="Colle di Cadibona" elev="385" RAINC="3" BVTGM="3" REHUM="0" SRPWM="0" WSPDM="3" CRLVM="0" TEMPM="3" SNOWM="0" PRSTM="0" WDIRP="3"/>
+<marker lat="44.07678" lon="8.13421" code="CISA" name="Cenesi" elev="110" RAINC="3" BVTGM="3" REHUM="3" SRPWM="3" WSPDM="3" CRLVM="0" TEMPM="3" SNOWM="0" PRSTM="0" WDIRP="3"/>
+<marker lat="44.06875" lon="8.17956" code="ISO2" name="Albenga - Isolabella" elev="36" RAINC="3" BVTGM="3" REHUM="0" SRPWM="0" WSPDM="0" CRLVM="0" TEMPM="3" SNOWM="0" PRSTM="0" WDIRP="0"/>
+<marker lat="44.31274" lon="9.54859" code="TVRN" name="Tavarone" elev="603" RAINC="3" BVTGM="3" REHUM="3" SRPWM="0" WSPDM="0" CRLVM="0" TEMPM="3" SNOWM="0" PRSTM="0" WDIRP="0"/>
+<marker lat="44.42846" lon="9.06348" code="VIGA" name="Viganego" elev="430" RAINC="3" BVTGM="3" REHUM="3" SRPWM="0" WSPDM="0" CRLVM="0" TEMPM="3" SNOWM="0" PRSTM="0" WDIRP="0"/>
+<marker lat="44.21117" lon="10.11668" code="MAZL" name="Mazzola" elev="380" RAINC="3" BVTGM="0" REHUM="0" SRPWM="0" WSPDM="0" CRLVM="0" TEMPM="3" SNOWM="0" PRSTM="0" WDIRP="0"/>
+<marker lat="44.30248" lon="9.79677" code="BORO" name="Bosco di Rossano" elev="780" RAINC="3" BVTGM="0" REHUM="0" SRPWM="0" WSPDM="0" CRLVM="0" TEMPM="3" SNOWM="0" PRSTM="0" WDIRP="0"/>
+<marker lat="44.57032" lon="9.07492" code="AVOB" name="Alpe Vobbia" elev="1082" RAINC="3" BVTGM="0" REHUM="0" SRPWM="0" WSPDM="0" CRLVM="0" TEMPM="3" SNOWM="0" PRSTM="0" WDIRP="0"/>
+<marker lat="44.36918" lon="9.88301" code="PTRM" name="Pontremoli Depuratore" elev="215" RAINC="3" BVTGM="0" REHUM="0" SRPWM="0" WSPDM="0" CRLVM="0" TEMPM="3" SNOWM="0" PRSTM="0" WDIRP="0"/>
+<marker lat="44.00021" lon="8.05527" code="STEL" name="Stellanello" elev="141" RAINC="0" BVTGM="0" REHUM="0" SRPWM="0" WSPDM="0" CRLVM="0" TEMPM="0" SNOWM="0" PRSTM="0" WDIRP="0"/>
+<marker lat="44.43429" lon="8.74155" code="MGRZ" name="Madonna delle Grazie" elev="104" RAINC="3" BVTGM="3" REHUM="3" SRPWM="3" WSPDM="0" CRLVM="0" TEMPM="3" SNOWM="0" PRSTM="0" WDIRP="0"/>
+<marker lat="44.35282" lon="9.76238" code="PATI" name="Patigno" elev="760" RAINC="3" BVTGM="0" REHUM="0" SRPWM="0" WSPDM="0" CRLVM="0" TEMPM="0" SNOWM="0" PRSTM="0" WDIRP="0"/>
+<marker lat="44.07139" lon="10.02417" code="ORTC" name="Ortonovo - Canale" elev="20" RAINC="0" BVTGM="0" REHUM="0" SRPWM="0" WSPDM="0" CRLVM="0" TEMPM="0" SNOWM="0" PRSTM="0" WDIRP="0"/>
+<marker lat="44.27525" lon="9.59772" code="CARO" name="Carro" elev="437" RAINC="0" BVTGM="0" REHUM="0" SRPWM="0" WSPDM="0" CRLVM="0" TEMPM="0" SNOWM="0" PRSTM="0" WDIRP="0"/>
+<marker lat="44.52014" lon="8.98586" code="CROR" name="Crocetta di Orero" elev="470" RAINC="3" BVTGM="3" REHUM="3" SRPWM="0" WSPDM="0" CRLVM="0" TEMPM="3" SNOWM="0" PRSTM="0" WDIRP="0"/>
+<marker lat="44.63599" lon="8.98149" code="VOBB" name="Vobbietta" elev="323" RAINC="0" BVTGM="0" REHUM="0" SRPWM="0" WSPDM="0" CRLVM="3" TEMPM="0" SNOWM="0" PRSTM="0" WDIRP="0"/>
+<marker lat="44.31321" lon="8.15981" code="MURI" name="Murialdo" elev="523" RAINC="3" BVTGM="0" REHUM="0" SRPWM="0" WSPDM="0" CRLVM="3" TEMPM="3" SNOWM="0" PRSTM="0" WDIRP="0"/>
+<marker lat="44.41094" lon="8.95395" code="FIRP" name="Genova - Firpo" elev="10" RAINC="0" BVTGM="3" REHUM="0" SRPWM="0" WSPDM="0" CRLVM="3" TEMPM="0" SNOWM="0" PRSTM="0" WDIRP="0"/>
+<marker lat="44.54028" lon="8.93816" code="MIGN" name="Mignanego" elev="270" RAINC="3" BVTGM="3" REHUM="0" SRPWM="0" WSPDM="0" CRLVM="0" TEMPM="3" SNOWM="0" PRSTM="0" WDIRP="0"/>
+<marker lat="43.87765" lon="7.63762" code="ISBN" name="Isolabona" elev="95" RAINC="0" BVTGM="3" REHUM="0" SRPWM="0" WSPDM="0" CRLVM="3" TEMPM="0" SNOWM="0" PRSTM="0" WDIRP="0"/>
+<marker lat="44.36664" lon="9.95589" code="SIGI" name="Rocca Sigillina" elev="500" RAINC="3" BVTGM="0" REHUM="0" SRPWM="0" WSPDM="0" CRLVM="0" TEMPM="0" SNOWM="0" PRSTM="0" WDIRP="0"/>
+<marker lat="44.36959" lon="8.19105" code="VALZ" name="Valzemola" elev="480" RAINC="3" BVTGM="3" REHUM="3" SRPWM="0" WSPDM="0" CRLVM="0" TEMPM="3" SNOWM="0" PRSTM="0" WDIRP="0"/>
+<marker lat="43.85263" lon="7.92859" code="CRAI" name="Cipressa" elev="285" RAINC="3" BVTGM="3" REHUM="3" SRPWM="0" WSPDM="0" CRLVM="0" TEMPM="3" SNOWM="0" PRSTM="0" WDIRP="0"/>
+<marker lat="44.42797" lon="8.93433" code="RGHI" name="Genova - Castellaccio" elev="360" RAINC="3" BVTGM="3" REHUM="0" SRPWM="0" WSPDM="3" CRLVM="0" TEMPM="3" SNOWM="0" PRSTM="0" WDIRP="3"/>
+<marker lat="43.93074" lon="7.84202" code="MNTL" name="Montalto Ligure" elev="240" RAINC="3" BVTGM="3" REHUM="0" SRPWM="0" WSPDM="0" CRLVM="3" TEMPM="0" SNOWM="0" PRSTM="0" WDIRP="0"/>
+<marker lat="44.4623" lon="8.58092" code="PIAM" name="Piampaludo" elev="865" RAINC="3" BVTGM="0" REHUM="0" SRPWM="0" WSPDM="0" CRLVM="0" TEMPM="3" SNOWM="0" PRSTM="0" WDIRP="0"/>
+<marker lat="44.16526" lon="9.91058" code="SSMG" name="S. Stefano Magra Meteo" elev="31" RAINC="0" BVTGM="0" REHUM="0" SRPWM="0" WSPDM="0" CRLVM="0" TEMPM="0" SNOWM="0" PRSTM="0" WDIRP="0"/>
+<marker lat="44.32323" lon="9.61484" code="LAMA" name="La Macchia" elev="270" RAINC="3" BVTGM="3" REHUM="0" SRPWM="0" WSPDM="0" CRLVM="3" TEMPM="0" SNOWM="0" PRSTM="0" WDIRP="0"/>
+</markers>
